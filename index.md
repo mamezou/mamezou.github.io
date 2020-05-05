@@ -5,10 +5,25 @@
 マーケやディレクションも携わっているジェネラリスト寄りな気質。
 
 
-## Profile
-- Mamezou
+# Profile
+- 田中勇希
 - Osaka_city
 - Web開発、運用、マーケティング、広告、ディレクション、構造改革
+
+# Slills
+- Windows, Mac, Ubuntu, Terminal
+- VScode, VisualStudio, Eclipse, AndroidStudio...
 - Python, PHP, JavaScript, C#, Java, HTML, CSS, Deluge ...
 - Django, WordPress, Vue.js, jQuery, Unity, BootStrap ...
 
+# Contact
+- [Mail](mailto:yuki.sengoku@gmail.com)
+
+# Study
+- iOSアプリ(swift)
+- VR/AR(Unity, Oculus)
+- Androidアプリ(Java)
+- Vue.js
+
+# Hobby
+- 将棋, コーヒー, スポーツ全般, 旅行 ... 
