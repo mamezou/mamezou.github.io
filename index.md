@@ -6,7 +6,7 @@
 
 
 # Profile
-- 田中勇希
+- mamezou
 - Osaka_city
 - Web開発、運用、マーケティング、広告、ディレクション、構造改革
 
@@ -17,7 +17,7 @@
 - Django, WordPress, Vue.js, jQuery, Unity, BootStrap ...
 
 # Contact
-- [Mail](mailto:yuki.sengoku@gmail.com)
+- [Mail](mailto:mamezou.king@gmail.com)
 
 # Study
 - iOSアプリ(swift)
